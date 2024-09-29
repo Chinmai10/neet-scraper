@@ -65,7 +65,7 @@ function parseHtml(htmlContent: string) {
         applicationNumber,
         candidateName,
         allIndiaRank,
-        marks
+        marks,
     }
 }
 
